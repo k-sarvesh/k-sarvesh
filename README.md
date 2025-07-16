@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/736x/c8/03/61/c80361d21d756f0fe6255289f39d7b57.jpg)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sarvesh Khawale</h1>
 <h3 align="center">I'm a student, pursuing B-Tech from RamdeoBaba University</h3>
-<img alt="image" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg">
+<img alt="image" align="right" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg">
 
 - 🌱 I’m currently learning **Web-Development and DSA**
 
