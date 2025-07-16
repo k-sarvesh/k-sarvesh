@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Khawale</h1>
 <h3 align="center">I'm a student, pursuing B-Tech from RamdeoBaba University</h3>
 <img alt="image" align="right" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg">
-
 - 🌱 I’m currently learning **Web-Development and DSA**
 
 - 📫 How to reach me **sarveshkhawale17@gmail.com**
@@ -10,6 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sarvesh khawale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh khawale" height="30" width="40" /></a>
+<a href="https://instagram.com/_k.sarvesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_k.sarvesh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/★shy_reef_17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="★shy_reef_17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sarveshkhawale17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sarveshkhawale17" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/paxton.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="paxton.x" height="30" width="40" /></a>
